@@ -1,0 +1,35 @@
+{% extends "/header.html"%}
+
+{% block content %}
+<div>
+	<table>
+	{% for i in range(homedirs|length) %}
+		<td>
+		<figure>
+			<a href="ftp://{{ ip }}:{{ports[i] }}">
+			<img src="{{url_for('static',filename='icons/folder-icon-s.png')}}"
+				alt="folder-icon"/>
+			</a>
+			 
+			<figcaption>
+				<a href="ftp://{{ ip }}:{{ports[i] }}">
+				{{ homedirs[i] }} </a> <br>
+				{{ freespace[i] }} Gb Free<br>
+			</figcaption>
+		</figure>
+		</td>
+	{% endfor %}
+	</table>
+	
+	<figure>
+		<a href="{{ url_for('files_list') }}">
+			<img src="{{url_for('static', filename='icons/documents-icon.png')}}"
+			alt="documents-icon"/>
+		</a>
+		<figcaption>
+			<a href="{{ url_for('files_list') }}">List of all Files</a>	
+		</figcaption>
+	</figure>
+	
+</div>
+{% endblock %}

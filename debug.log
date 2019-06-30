@@ -1,0 +1,241 @@
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.10.2
+INFO:werkzeug: * Running on http://192.168.10.2:80/ (Press CTRL+C to quit)
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:127.0.0.1
+INFO:werkzeug: * Running on http://127.0.0.1:80/ (Press CTRL+C to quit)
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:127.0.0.1
+INFO:werkzeug: * Running on http://127.0.0.1:80/ (Press CTRL+C to quit)
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.10.10
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.10.10
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.10.10
+INFO:werkzeug: * Running on http://192.168.10.10:80/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.10.5 - - [02/Mar/2019 11:59:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.5 - - [02/Mar/2019 11:59:06] "GET /static/bootstrap.min.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.5 - - [02/Mar/2019 11:59:06] "GET /static/icons/folder-icon-s.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.5 - - [02/Mar/2019 11:59:08] "GET /static/icons/documents-icon.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.5 - - [02/Mar/2019 11:59:08] "GET /favicon.ico HTTP/1.1" 404 -
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.10.10
+INFO:werkzeug: * Running on http://192.168.10.10:80/ (Press CTRL+C to quit)
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.10.10
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.10.10
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.10.10
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.10.10
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.10.10
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.10.10
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.10.10
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.10.10
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.10.7
+INFO:werkzeug: * Running on http://192.168.10.7:80/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.10.10 - - [08/May/2019 00:24:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.10 - - [08/May/2019 00:24:16] "GET /static/icons/folder-icon-s.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.10 - - [08/May/2019 00:24:16] "GET /static/bootstrap.min.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.10 - - [08/May/2019 00:24:17] "GET /static/icons/documents-icon.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.10 - - [08/May/2019 00:24:18] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:192.168.10.10 - - [08/May/2019 00:28:07] "GET / HTTP/1.1" 200 -
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:127.0.0.1
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.173.1
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.173.1
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.173.1
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads/Shared is at port 2124
+DEBUG:root:IP:192.168.173.1
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads is at port 2124
+DEBUG:root:IP:192.168.173.1
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads is at port 2124
+DEBUG:root:IP:192.168.173.1
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads is at port 2124
+DEBUG:root:IP:192.168.173.1
+INFO:werkzeug: * Running on http://192.168.173.1:80/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.173.130 - - [30/Jun/2019 20:33:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.173.130 - - [30/Jun/2019 20:33:30] "GET /static/icons/folder-icon-s.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.173.130 - - [30/Jun/2019 20:33:30] "GET /static/bootstrap.min.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.173.130 - - [30/Jun/2019 20:33:32] "GET /static/icons/documents-icon.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.173.130 - - [30/Jun/2019 20:33:32] "GET /favicon.ico HTTP/1.1" 404 -
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads is at port 2124
+DEBUG:root:E:/Must Backup Data/Notes is at port 2125
+DEBUG:root:IP:192.168.173.1
+INFO:werkzeug: * Running on http://192.168.173.1:80/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.173.1 - - [30/Jun/2019 20:41:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.173.1 - - [30/Jun/2019 20:41:09] "[37mGET /static/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.173.1 - - [30/Jun/2019 20:41:09] "[37mGET /static/icons/folder-icon-s.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.173.1 - - [30/Jun/2019 20:41:09] "[37mGET /static/icons/documents-icon.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.173.1 - - [30/Jun/2019 20:41:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads is at port 2124
+DEBUG:root:E:/Must Backup Data/Notes is at port 2125
+DEBUG:root:IP:192.168.173.1
+INFO:werkzeug: * Running on http://192.168.173.1:80/ (Press CTRL+C to quit)
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads is at port 2124
+DEBUG:root:E:/Must Backup Data/Notes is at port 2125
+DEBUG:root:IP:192.168.173.1
+INFO:werkzeug: * Running on http://192.168.173.1:80/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.173.130 - - [30/Jun/2019 20:50:21] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.173.1 - - [30/Jun/2019 20:53:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.173.1 - - [30/Jun/2019 20:53:48] "[37mGET /static/icons/folder-icon-s.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.173.1 - - [30/Jun/2019 20:53:48] "[37mGET /static/icons/documents-icon.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.173.1 - - [30/Jun/2019 20:53:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads is at port 2124
+DEBUG:root:E:/Must Backup Data/Notes is at port 2125
+DEBUG:root:IP:192.168.173.1
+INFO:werkzeug: * Running on http://192.168.173.1:80/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.173.130 - - [30/Jun/2019 21:02:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

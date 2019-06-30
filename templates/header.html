@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> FTP Server by n0vice </title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" 
+	href="{{ url_for('static', filename='bootstrap.min.css')}}">
+</head>
+
+<nav class="navbar navbar-default">		
+			<div class="container-fluid">
+				<div class="navbar-header">
+				<a class="navbar-brand" href="#"> FTP Server </a>
+			  </div>
+			  <ul class="nav navbar-nav">
+				<li class="active"><a href="{{ url_for('index')}}">Home</a></li>
+				<li><a href="{{ url_for('help')}}">Help</a></li>
+			  </ul>
+			</div>
+</nav>
+
+<body class="body">
+	{% block content %}
+	{% endblock %}
+</body>
+<footer>
+	<p> Copyright Novice Inc. </p>
+</footer>
+</html>
