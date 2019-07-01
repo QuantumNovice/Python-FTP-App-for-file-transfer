@@ -239,3 +239,19 @@ DEBUG:root:E:/Must Backup Data/Notes is at port 2125
 DEBUG:root:IP:192.168.173.1
 INFO:werkzeug: * Running on http://192.168.173.1:80/ (Press CTRL+C to quit)
 INFO:werkzeug:192.168.173.130 - - [30/Jun/2019 21:02:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:root:Starting App.py
+DEBUG:root:Serve Directories
+DEBUG:root:G:/Shared is at port 2121
+DEBUG:root:E:/Shared is at port 2122
+DEBUG:root:E:/Setup is at port 2123
+DEBUG:root:C:/Users/Has/Downloads is at port 2124
+DEBUG:root:E:/Must Backup Data/Notes is at port 2125
+DEBUG:root:IP:192.168.173.1
+INFO:werkzeug: * Running on http://192.168.173.1:80/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.173.1 - - [30/Jun/2019 23:33:00] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.173.1 - - [30/Jun/2019 23:33:01] "[37mGET /static/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.173.1 - - [30/Jun/2019 23:33:01] "[37mGET /static/icons/folder-icon-s.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.173.1 - - [30/Jun/2019 23:33:01] "[37mGET /static/icons/documents-icon.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.173.1 - - [30/Jun/2019 23:33:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.173.1 - - [30/Jun/2019 23:33:43] "[37mGET /files_list HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.173.1 - - [30/Jun/2019 23:34:27] "[37mGET /files_list HTTP/1.1[0m" 200 -

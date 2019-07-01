@@ -1,8 +1,23 @@
+author: n0vice
 
-__author__ = 'Syed Haseeb Shah aka n0vice'
-__email__ =  'hasi468iowa@gmail.com'
+!()[main.jpg]
+!()[search.jpg]
 
+# Usage
+
+* Add directories to config.conf
+```bash
+ftpsite.py
+```
+Goto browser or any FTP application and use the app for copying 
+and syncing files.
+The search bar searches in all the files provided in the conf file.
+# Installing Dependencies
 ```python
 pip install pyftpdlib
 pip install flask
 ```
+
+
+# Licence
+Opensource

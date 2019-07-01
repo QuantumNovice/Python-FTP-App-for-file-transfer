@@ -8,6 +8,7 @@ __author__ = 'Syed Haseeb Shah aka n0vice'
 __email__ =  'hasi468iowa@gmail.com'
 __pyversion__ = 3.5
 __tested__ = ['Ubuntu-Bionic-Beaver', 'Win 7', 'Win 8', 'Win 10']
+__licence__ = ''
 
 logging.basicConfig(filename='debug.log',level=logging.DEBUG)
 
@@ -53,7 +54,7 @@ def server_root_files():
     return FILES
 
 
-ip = ipselect() 
+#ip = ipselect() 
 serve_paths = homedirs() # Paths that'll be served by FTP
 ports = [2121+i for i in range(len(serve_paths))]
 FILES = server_root_files()
@@ -101,7 +102,9 @@ def help():
 if __name__ == '__main__':
     logging.debug('Starting App.py')
     logging.debug('Serve Directories')
-    ip = ipselect()
+	# This function automatically selects appropriate ip. This is a
+	# user specific solution for now
+    #ip = ipselect()
     ip = '192.168.173.1'
     for i in range(len(ports)):
         print(serve_paths[i])
