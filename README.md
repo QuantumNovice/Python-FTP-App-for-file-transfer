@@ -1,7 +1,7 @@
 author: n0vice
 
-!()[main.jpg]
-!()[search.jpg]
+![](/main.jpg)
+![](/search.jpg)
 
 # Usage
 
