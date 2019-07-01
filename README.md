@@ -1,7 +1,7 @@
 author: n0vice
 
-![](/main.jpg)
-![](/search.jpg)
+![](https://github.com/QuantumNovice/Python-FTP-App-for-file-transfer/blob/master/main.JPG
+![](https://github.com/QuantumNovice/Python-FTP-App-for-file-transfer/blob/master/search.jpg)
 
 # Usage
 
