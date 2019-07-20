@@ -2,4 +2,5 @@ language: python
 python: 3.6
 intall:
   - pip install -r requirements.txt
-
+script:
+  - coverage run tests.py
