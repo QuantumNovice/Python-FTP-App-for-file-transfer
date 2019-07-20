@@ -3,4 +3,4 @@ python: 3.6
 intall:
   - pip install -r requirements.txt
 script:
-  - bash ls
+  - echo "Star"
