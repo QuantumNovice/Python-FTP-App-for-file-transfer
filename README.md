@@ -1,6 +1,7 @@
 author: n0vice
 [![Build Status](https://travis-ci.org/QuantumNovice/Python-FTP-App-for-file-transfer.svg?branch=master)](https://travis-ci.org/QuantumNovice/Python-FTP-App-for-file-transfer)
-![](https://github.com/QuantumNovice/Python-FTP-App-for-file-transfer/blob/master/search.jpg)
+
+![](https://github.com/QuantumNovice/Python-FTP-App-for-file-transfer/blob/master/search.JPG)
 
 # Usage
 
