@@ -1,10 +1,10 @@
 
 [![Build Status](https://travis-ci.org/QuantumNovice/Python-FTP-App-for-file-transfer.svg?branch=master)](https://travis-ci.org/QuantumNovice/Python-FTP-App-for-file-transfer)
 [![Inline docs](http://inch-ci.org/github/QuantumNovice/Python-FTP-App-for-file-transfer.svg?branch=master)](http://inch-ci.org/github/QuantumNovice/Python-FTP-App-for-file-transfer)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?)](https://github.com/dwyl/esta/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
-[![HitCount](http://hits.dwyl.com/QuantumNovice/Python-FTP-App-for-file-transfer.svg)](http://hits.dwyl.com/QuantumNovice/Python-FTP-App-for-file-transfer)
-[![Known Vulnerabilities](https://snyk.io/test/github/QuantumNovice/Python-FTP-App-for-file-transfer/badge.svg)](https://snyk.io/test/github/QuantumNovice/Python-FTP-App-for-file-transfer)
+[![HitCount](http://hits.dwyl.com/QuantumNovice/Python-FTP-App-for-file-transfer.svg?style=flat)](http://hits.dwyl.com/QuantumNovice/Python-FTP-App-for-file-transfer)
+
 
 
 # Author: Syed Haseeb Shah
