@@ -3,7 +3,8 @@
 
 [![Inline docs](http://inch-ci.org/github/QuantumNovice/Python-FTP-App-for-file-transfer.svg?branch=master)](http://inch-ci.org/github/QuantumNovice/Python-FTP-App-for-file-transfer)
 
-## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
 
 
 # Author: Syed Haseeb Shah
